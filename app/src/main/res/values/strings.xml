@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">幸福里</string>
+    <string name="text_one">这是幸福里的第一条文本信息</string>
+    <string name="text_two">这是第二条文本信息，注意观察我的大小</string>
+    <string name="text_three">这是第三条文本信息，注意观察我的颜色</string>
+</resources>
